@@ -1,16 +1,14 @@
-# i_am_rich
+# I am Rich
 
-A new Flutter project.
+I Am Rich was an iOS mobile application developed 
+by Armin Heinrich that was distributed through the App Store
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a simple recreation of the i_am_rich app 
+which was built as a practice of Flutter development
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Learn more about the I_Am_Rich App](https://en.wikipedia.org/wiki/I_Am_Rich)
+
